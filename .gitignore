@@ -1,3 +1,6 @@
+# Personal
+*.sqlite
+
 # Logs
 logs
 *.log
